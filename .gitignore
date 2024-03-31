@@ -1,2 +1,6 @@
 
 /.venv
+/.venv
+/.venv/Lib/site-packages/_distutils_hack/__pycache__
+/.venv/Lib
+/.venv
